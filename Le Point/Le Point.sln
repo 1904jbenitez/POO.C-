@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Le Point", "Le Point\Le Point.csproj", "{253A9141-2803-4C25-B035-FD16D5A0058E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253A9141-2803-4C25-B035-FD16D5A0058E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253A9141-2803-4C25-B035-FD16D5A0058E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253A9141-2803-4C25-B035-FD16D5A0058E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253A9141-2803-4C25-B035-FD16D5A0058E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8781C08-74DD-4E1E-8B92-3230CA55047E}
+	EndGlobalSection
+EndGlobal

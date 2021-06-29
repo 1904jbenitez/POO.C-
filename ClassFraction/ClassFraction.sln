@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassFraction", "ClassFraction\ClassFraction.csproj", "{C2448585-DA60-4A42-8A89-51F588216BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2448585-DA60-4A42-8A89-51F588216BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2448585-DA60-4A42-8A89-51F588216BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2448585-DA60-4A42-8A89-51F588216BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2448585-DA60-4A42-8A89-51F588216BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FF6E5BC-0360-416F-947D-EFA9ED0C5E25}
+	EndGlobalSection
+EndGlobal
