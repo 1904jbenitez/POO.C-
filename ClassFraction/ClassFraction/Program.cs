@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ClassFraction;
 
 namespace ClassFraction
 {
@@ -27,20 +30,20 @@ namespace ClassFraction
             this.denom = 1;
         }
 
-        public double Infos(int num, int denom)
+        /*public double Infos(int num, int denom)
         {
             return num / denom;
-        }
+        }*/
 
         public override string ToString()
         {
             return +this.num + "/" + this.denom;
         }
 
-        public void Oppose(int num, int denom)
+        /*public void Oppose(int num, int denom)
         {
             this.num = -(num);
-        }
+        }*/
 
         public void Inverse()
         {
@@ -137,7 +140,7 @@ namespace ClassFraction
             G.ToDisplay(G);
 
         }
-        public void Moins(Fraction _F)
+        public Fraction Moins(Fraction _F)
         {
             int NUM;
             int DEN;
@@ -149,6 +152,8 @@ namespace ClassFraction
             H = new Fraction(NUM, DEN);
 
             H.ToDisplay(H);
+
+            return H;
         }
         public void Multiplie(Fraction _F)
         {
