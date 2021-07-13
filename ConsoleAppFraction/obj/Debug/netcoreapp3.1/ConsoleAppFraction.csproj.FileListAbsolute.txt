@@ -1,0 +1,16 @@
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\bin\Debug\netcoreapp3.1\ConsoleAppFraction.exe
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\bin\Debug\netcoreapp3.1\ConsoleAppFraction.deps.json
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\bin\Debug\netcoreapp3.1\ConsoleAppFraction.runtimeconfig.json
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\bin\Debug\netcoreapp3.1\ConsoleAppFraction.runtimeconfig.dev.json
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\bin\Debug\netcoreapp3.1\ConsoleAppFraction.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\bin\Debug\netcoreapp3.1\ConsoleAppFraction.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\obj\Debug\netcoreapp3.1\ConsoleAppFraction.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\obj\Debug\netcoreapp3.1\ConsoleAppFraction.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\obj\Debug\netcoreapp3.1\ConsoleAppFraction.AssemblyInfo.cs
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\obj\Debug\netcoreapp3.1\ConsoleAppFraction.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\obj\Debug\netcoreapp3.1\ConsoleAppFraction.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\obj\Debug\netcoreapp3.1\ConsoleAppFraction.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\obj\Debug\netcoreapp3.1\ConsoleAppFraction.genruntimeconfig.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\bin\Debug\netcoreapp3.1\ClassLibraryFraction.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\bin\Debug\netcoreapp3.1\ClassLibraryFraction.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFraction\obj\Debug\netcoreapp3.1\ConsoleAppFraction.csproj.CopyComplete

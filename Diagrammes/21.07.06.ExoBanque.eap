@@ -1,0 +1,60 @@
+
+
+namespace metiers {
+	private class Banque {
+
+		public Compte mesComptes;
+		public int nbComptes;
+
+		public Banque(){
+
+		}
+
+		~Banque(){
+
+		}
+
+		public virtual void Dispose(){
+
+		}
+
+		/// 
+		/// <param name="_nom"></param>
+		/// <param name="_ville"></param>
+		public Banque(string _nom, string _ville){
+
+		}
+
+		/// 
+		/// <param name="_uneCompte"></param>
+		private void AjouterCompte(Compte _uneCompte){
+
+		}
+
+		/// 
+		/// <param name="_num"></param>
+		/// <param name="_nom"></param>
+		/// <param name="_solde"></param>
+		/// <param name="_decouvertAutorise"></param>
+		public void AjouterCompte(long _num, string _nom, double _solde, double _decouvertAutorise){
+
+		}
+
+		public Compte mesComptes{
+			get{
+				return mesComptes;
+			}
+		}
+
+		public int NbComptes{
+			get{
+				return nbComptes;
+			}
+			set{
+				nbComptes = value;
+			}
+		}
+
+	}//end Banque
+
+}//end namespace metiers

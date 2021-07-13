@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFinancier\bin\Debug\netcoreapp3.1\ClassLibraryFinancier.deps.json
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFinancier\bin\Debug\netcoreapp3.1\ClassLibraryFinancier.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFinancier\bin\Debug\netcoreapp3.1\ClassLibraryFinancier.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFinancier\obj\Debug\netcoreapp3.1\ClassLibraryFinancier.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFinancier\obj\Debug\netcoreapp3.1\ClassLibraryFinancier.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFinancier\obj\Debug\netcoreapp3.1\ClassLibraryFinancier.AssemblyInfo.cs
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFinancier\obj\Debug\netcoreapp3.1\ClassLibraryFinancier.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFinancier\obj\Debug\netcoreapp3.1\ClassLibraryFinancier.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFinancier\obj\Debug\netcoreapp3.1\ClassLibraryFinancier.pdb

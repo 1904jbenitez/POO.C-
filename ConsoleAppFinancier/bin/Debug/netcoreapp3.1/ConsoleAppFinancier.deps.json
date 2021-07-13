@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppFinancier/1.0.0": {
+        "dependencies": {
+          "ClassLibraryFinancier": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppFinancier.dll": {}
+        }
+      },
+      "ClassLibraryFinancier/1.0.0": {
+        "runtime": {
+          "ClassLibraryFinancier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppFinancier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryFinancier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

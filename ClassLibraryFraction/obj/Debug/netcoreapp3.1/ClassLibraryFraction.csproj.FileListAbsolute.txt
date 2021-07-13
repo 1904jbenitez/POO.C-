@@ -1,0 +1,18 @@
+C:\Users\Stagiaire\OneDrive\Docs\GitHub\POO.C#\ClassFraction\ClassLibraryFraction\bin\Debug\netcoreapp3.1\ClassLibraryFraction.deps.json
+C:\Users\Stagiaire\OneDrive\Docs\GitHub\POO.C#\ClassFraction\ClassLibraryFraction\bin\Debug\netcoreapp3.1\ClassLibraryFraction.dll
+C:\Users\Stagiaire\OneDrive\Docs\GitHub\POO.C#\ClassFraction\ClassLibraryFraction\bin\Debug\netcoreapp3.1\ClassLibraryFraction.pdb
+C:\Users\Stagiaire\OneDrive\Docs\GitHub\POO.C#\ClassFraction\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\OneDrive\Docs\GitHub\POO.C#\ClassFraction\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\GitHub\POO.C#\ClassFraction\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.AssemblyInfo.cs
+C:\Users\Stagiaire\OneDrive\Docs\GitHub\POO.C#\ClassFraction\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\GitHub\POO.C#\ClassFraction\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.dll
+C:\Users\Stagiaire\OneDrive\Docs\GitHub\POO.C#\ClassFraction\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFraction\bin\Debug\netcoreapp3.1\ClassLibraryFraction.deps.json
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFraction\bin\Debug\netcoreapp3.1\ClassLibraryFraction.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFraction\bin\Debug\netcoreapp3.1\ClassLibraryFraction.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.AssemblyInfo.cs
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ClassLibraryFraction\obj\Debug\netcoreapp3.1\ClassLibraryFraction.csproj.AssemblyReference.cache

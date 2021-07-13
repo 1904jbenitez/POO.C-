@@ -1,0 +1,16 @@
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\bin\Debug\netcoreapp3.1\ConsoleAppFinancier.exe
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\bin\Debug\netcoreapp3.1\ConsoleAppFinancier.deps.json
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\bin\Debug\netcoreapp3.1\ConsoleAppFinancier.runtimeconfig.json
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\bin\Debug\netcoreapp3.1\ConsoleAppFinancier.runtimeconfig.dev.json
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\bin\Debug\netcoreapp3.1\ConsoleAppFinancier.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\bin\Debug\netcoreapp3.1\ConsoleAppFinancier.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\bin\Debug\netcoreapp3.1\ClassLibraryFinancier.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\bin\Debug\netcoreapp3.1\ClassLibraryFinancier.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\obj\Debug\netcoreapp3.1\ConsoleAppFinancier.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\obj\Debug\netcoreapp3.1\ConsoleAppFinancier.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\obj\Debug\netcoreapp3.1\ConsoleAppFinancier.AssemblyInfo.cs
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\obj\Debug\netcoreapp3.1\ConsoleAppFinancier.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\obj\Debug\netcoreapp3.1\ConsoleAppFinancier.csproj.CopyComplete
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\obj\Debug\netcoreapp3.1\ConsoleAppFinancier.dll
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\obj\Debug\netcoreapp3.1\ConsoleAppFinancier.pdb
+C:\Users\Stagiaire\OneDrive\Docs\POO C#\ConsoleAppFinancier\obj\Debug\netcoreapp3.1\ConsoleAppFinancier.genruntimeconfig.cache

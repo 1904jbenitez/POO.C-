@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryFraction", "ClassLibraryFraction.csproj", "{32E23DC2-226A-491E-8381-84F533B5F482}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fraction", "Fraction", "{072ECAE5-B4E7-42D8-84DE-B1AF4907B6C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppFraction", "..\ConsoleAppFraction\ConsoleAppFraction.csproj", "{F1D67350-6F9A-4900-A45C-8207D548C5C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E23DC2-226A-491E-8381-84F533B5F482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E23DC2-226A-491E-8381-84F533B5F482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E23DC2-226A-491E-8381-84F533B5F482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E23DC2-226A-491E-8381-84F533B5F482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D67350-6F9A-4900-A45C-8207D548C5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D67350-6F9A-4900-A45C-8207D548C5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D67350-6F9A-4900-A45C-8207D548C5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D67350-6F9A-4900-A45C-8207D548C5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32E23DC2-226A-491E-8381-84F533B5F482} = {072ECAE5-B4E7-42D8-84DE-B1AF4907B6C4}
+		{F1D67350-6F9A-4900-A45C-8207D548C5C6} = {072ECAE5-B4E7-42D8-84DE-B1AF4907B6C4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB50822-2789-435E-9386-DE5AE9C7826C}
+	EndGlobalSection
+EndGlobal
