@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\source\repos\ClassLibraryJeu421\obj\Debug\netcoreapp3.1\ClassLibraryJeu421.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\source\repos\ClassLibraryJeu421\obj\Debug\netcoreapp3.1\ClassLibraryJeu421.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\source\repos\ClassLibraryJeu421\obj\Debug\netcoreapp3.1\ClassLibraryJeu421.AssemblyInfo.cs
+C:\Users\Stagiaire\source\repos\ClassLibraryJeu421\obj\Debug\netcoreapp3.1\ClassLibraryJeu421.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\source\repos\ClassLibraryJeu421\bin\Debug\netcoreapp3.1\ClassLibraryJeu421.deps.json
+C:\Users\Stagiaire\source\repos\ClassLibraryJeu421\bin\Debug\netcoreapp3.1\ClassLibraryJeu421.dll
+C:\Users\Stagiaire\source\repos\ClassLibraryJeu421\bin\Debug\netcoreapp3.1\ClassLibraryJeu421.pdb
+C:\Users\Stagiaire\source\repos\ClassLibraryJeu421\obj\Debug\netcoreapp3.1\ClassLibraryJeu421.dll
+C:\Users\Stagiaire\source\repos\ClassLibraryJeu421\obj\Debug\netcoreapp3.1\ClassLibraryJeu421.pdb

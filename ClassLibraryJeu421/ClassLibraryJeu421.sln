@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryJeu421", "ClassLibraryJeu421.csproj", "{17E81F52-9090-4FB4-874B-26A328D922CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jeux421", "Jeux421", "{89B5AA1A-30C5-4241-B99F-A0E13C7B0134}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppJeu421", "..\..\..\OneDrive\Docs\POO C#\ConsoleAppJeux421\ConsoleAppJeu421.csproj", "{82A4D809-84F6-4A91-AADF-07DB56F1FD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E81F52-9090-4FB4-874B-26A328D922CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E81F52-9090-4FB4-874B-26A328D922CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E81F52-9090-4FB4-874B-26A328D922CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E81F52-9090-4FB4-874B-26A328D922CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A4D809-84F6-4A91-AADF-07DB56F1FD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A4D809-84F6-4A91-AADF-07DB56F1FD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A4D809-84F6-4A91-AADF-07DB56F1FD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A4D809-84F6-4A91-AADF-07DB56F1FD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{17E81F52-9090-4FB4-874B-26A328D922CA} = {89B5AA1A-30C5-4241-B99F-A0E13C7B0134}
+		{82A4D809-84F6-4A91-AADF-07DB56F1FD8C} = {89B5AA1A-30C5-4241-B99F-A0E13C7B0134}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {440A5709-4DA6-4CFC-B937-DFFB66F2CCA5}
+	EndGlobalSection
+EndGlobal
